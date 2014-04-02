@@ -139,10 +139,11 @@ def dests_by_rank_preds_by_dest(od_meds_df):
 
 
     #make JFK->LAX and LAX->JFK separate entries for grouping purposes
-    od_meds_dfcop = od_meds_df.copy()
+    #also require at least 100 entries on a given route for it to be included in rankings
+    od_meds_dfcop = od_meds_df.loc[od_meds_df.Count >= 100].copy()
     od_meds_dfcop['apt1'] = od_meds_df['apt2']
     od_meds_dfcop['apt2'] = od_meds_df['apt1']
-    od_dub = pd.concat([od_meds_df, od_meds_dfcop])
+    od_dub = pd.concat([od_meds_df.loc[od_meds_df.Count >= 100], od_meds_dfcop])
     od_dub.index = range(len(od_dub))
     od_dub['dest_value_rank'] = od_dub.groupby('apt1')['delta_price'].rank(ascending = False)
 
@@ -215,7 +216,12 @@ def make_hidden_cities_d(od_df):
             hiddens.add(route_s.split(':')[-1])
         hidden_cities_d[route_tup] = list(hiddens)
 
-    return hidden_cities_d
+    hidden_cities_paired_d = dict()
+    for route_tup in hidden_cities_d:
+        if (route_tup[1], route_tup[0]) in hidden_cities_d:
+            hidden_cities_paired_d[route_tup] = hidden_cities_d[route_tup]
+
+    return hidden_cities_paired_d
 
 
 
