@@ -1,6 +1,8 @@
+#!//anaconda/bin/python
+
+#UPDATE YOUR HASH-BANG PYTHON PATH, mine is above:
 
 
-#HASH-BANG PYTHON PATH GOES HERE
 
 import os
 from app import app

@@ -3,7 +3,7 @@ from app import *
 from models import *
 from form import FlyForm, ITAForm, NonStopForm
 
-
+##GLOBALS
 HIDDEN_PAIRS_D = pkl.load(open('app/static/OrigDest_HiddenCity_Targets.pkl', 'rb'))
 DEST_RANK_D = pkl.load(open('app/static/OrigDest_Ranking.pkl', 'rb'))
 DEST_PREDS_D = pkl.load(open('app/static/OrigDest_PricePreds.pkl', 'rb'))
@@ -103,7 +103,7 @@ def show_dests():
                                month = itaform.month.data,
                                duration = itaform.duration.data))
     elif itaform.is_submitted():
-        flash('Invalid Input'+str(itaform.month.data))
+        flash('Invalid Input')
     return render_template('show_dests.html',
                              origin_entered = origin_entered,
                              itaform = itaform)
@@ -239,11 +239,4 @@ def deal_checker(orig, dest, route_price):
 
 
 
-def stars_from_price(delta_p, distrib_mean, distrib_std):
-    z_score = (delta_p - distrib_mean) / (1.0 * distrib_std)
-    if abs(z_score) <= (1./3.):
-        return 3
-    elif abs(z_score) < (4./3.):
-        return 3 + (1 if z_score >= 0 else -1)
-    else:
-        return 3 + (2 if z_score >= 0 else -2)
+

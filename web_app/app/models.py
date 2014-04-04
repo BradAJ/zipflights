@@ -115,3 +115,12 @@ def date_obj_to_s(date_obj):
     d = '0' + str(date_obj.day) if date_obj.day < 10 else str(date_obj.day)
     return y + '-' + m + '-' + d
 
+def stars_from_price(delta_p, distrib_mean, distrib_std):
+    z_score = (delta_p - distrib_mean) / (1.0 * distrib_std)
+    if abs(z_score) <= (1./3.):
+        return 3
+    elif abs(z_score) < (4./3.):
+        return 3 + (1 if z_score >= 0 else -1)
+    else:
+        return 3 + (2 if z_score >= 0 else -2)
+
