@@ -1,0 +1,19 @@
+<!-- extend from base layout -->
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2> Roundtrip Tickets Between: {{faa_orig}} and {{faa_dest}}</h2>
+<h3> Departing between {{start_date}} and {{end_date}}, and staying for {{duration}} nights.</h3>
+<h3> Are available for: <em>{{route_price}}</em></h3>
+<h3>On the following airlines:</h3>
+<h4><ul>
+{% for airline in airlines %}
+    <li>{{airline}}</li>
+{% endfor %}
+</ul></h4>
+    <h3>Our models give this deal <em>{{deal_stars}}</em></h3>
+
+
+
+{% endblock %}

@@ -1,0 +1,63 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+  
+    
+    <title>zipflights</title>
+
+
+    <link rel="stylesheet" href="/static/images/CoolWater.css" type="text/css"/>
+    
+  </head>
+  <body>
+    <!-- <div>Zipflights: <a href="/index">Home</a></div>
+    <hr> -->
+<div id="wrap">
+    <div id="header">
+      <h1 id="logo-text"><a href="/index">zipflights</a></h1>
+    </div>
+    <div id="menu">
+      <ul>
+	<li id="current"><a href="/index">Home</a></li>
+	<li><a href="/fly">Flex Dests</a></li>
+	<li><a href="/fly-nonstop">Non-Stops</a></li>
+      </ul>
+    </div>
+
+    {% with messages = get_flashed_messages() %}
+    {% if messages %}
+    <ul>
+    {% for message in messages %}
+    <li>{{message}}</li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+    {% endwith %}
+   <div id="content-wrap">
+    <div id="main">
+    {% block content %}{% endblock %}
+    </div>
+
+    <div id="sidebar">
+      <h2>Powered By:</h2>
+      <ul class="sidemenu">
+	<li><a href="http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=247&DB_Short_Name=Origin%20and%20Destination%20Survey">Bureau of Transportation Statistics: Origin and Destination Survey</a></li>
+	<li><a href="http://matrix.itasoftware.com/">ITA Matrix by Google</a></li>
+      </ul>
+    </div>
+  </div>
+	<div id="footer">
+			
+		<p>
+		&copy; 2014 <strong>Bradley Jacobs</strong> |
+		Design by <a href="http://www.styleshout.com/">styleshout</a>
+   	</p>
+				
+	</div>	
+</div>
+
+
+  </body>
+</html>

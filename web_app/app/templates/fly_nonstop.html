@@ -1,0 +1,24 @@
+<!-- extend from base layout -->
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Search for Non-Stop Flight Deals</h2>
+
+
+   <form action="" method="post" name="nonstop">
+    {{form.hidden_tag()}}
+    <h3><ul>From: {{form.origin(size = 3, maxlength = 3)}}
+    To: {{form.destination(size = 3, maxlength = 3)}} (airport codes)</ul>
+
+    <ul>Departing: {{form.depart_month(size = 1)}} / {{form.depart_day(size = 1, maxlength = 2)}} / {{form.depart_year(size = 4, maxlength = 4)}}
+    </ul>
+    <ul>
+    Returning: {{form.return_month(size = 1)}} / {{form.return_day(size = 1, maxlength = 2)}} / {{form.return_year(size = 4, maxlength = 4)}}
+    </ul>
+    <ul>
+    <input type="submit" value="Search For Deals"></ul></h3>
+   </form>
+
+
+
+{% endblock %}

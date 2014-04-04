@@ -1,0 +1,101 @@
+<!-- extend from base layout -->
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2> Non-Stop Tickets Between: {{origin_entered}} and {{dest_entered}}</h2>
+<h3> Departing on {{departing}} and returning on {{returning}}</h3>
+{% if nonstops_avail %}
+    <h3> Are available for:</h3> <em><h2>USD{{nonstop_d['minprice']}}</h2></em>
+    <h3>Our models give this deal <em>{{deal_stars}}</em></h3>
+  <table border="0"><tr><td>
+    
+     <table><caption><h3> Outbound:</h3></caption>
+        <th>Flight Num.</th>
+
+    {% for flight in nonstop_d['out_flights'] %}
+        <tr><td><h4>{{flight}}</h4></td></tr>  
+    {% endfor %}
+    </table>
+   </td><td>
+   
+     <table><caption><h3> Return:</h3></caption>
+        <th>Flight Num.</th>
+
+    {% for flight in nonstop_d['back_flights'] %}
+        <tr><td><h4>{{flight}}</h4></td></tr>  
+    {% endfor %}
+    </table>
+   
+   <caption align="bottom"><h4>Carriers: 
+    {% for car in nonstop_d['carriers'] %}
+      {{car}}, 
+    {% endfor %} 
+
+   </h4></caption>
+  
+  </table>
+
+    {% if hiddens_avail %}
+        {% if hiddens_help %}
+            <h2>Good News!</h2>
+            <h3>You fly can non-stop between {{origin_entered}} and {{dest_entered}} 
+                by purchasing two "Hidden City" one-way tickets for a total price:</h3> <em><h2>USD{{total_hidden}}</h2></em>
+	    <br>
+            <h4><ul>"Hidden City" tickets (at their simplest) are one-way flights that require a transfer, where you "forget" to board the second flight. For more information see this <a href="http://boardingarea.com/viewfromthewing/2012/01/07/how-to-use-hidden-city-and-throwaway-ticketing-to-save-money-on-airfare/">blog post.</a></ul></h4>
+	    <br>
+       
+             <table>
+                <caption><h3> Outbound: (USD{{out_flights_d['minprice']}})</h3></caption>
+                <th>Ticket Route</th>
+                <th>Flight Num.</th>
+                <th>NOT Flying</th>
+
+            {% for flight in out_flights_d['out_flights'] %}
+                <tr>
+                    <td><h4>{{out_flights_d[flight]['true_orig']}} to {{out_flights_d[flight]['fake_dest']}}</h4></td>
+                    <td><h4>{{flight}}</h4></td>
+                    <td><h4>{{out_flights_d[flight]['stops']}}-{{out_flights_d[flight]['fake_dest']}}</h4></td>
+                </tr>
+            {% endfor %}
+                <caption align="bottom"><h4>Carriers: 
+                {% for car in out_flights_d['carriers'] %}
+                  {{car}}, 
+                {% endfor %} 
+                </caption>
+
+            </table>
+
+            <table>
+                <caption><h3> Return: (USD{{back_flights_d['minprice']}})</h3></caption>
+                <th>Ticket Route</th>
+                <th>Flight Num.</th>
+                <th>NOT Flying</th>
+
+            {% for flight in back_flights_d['back_flights'] %}
+                <tr>
+                    <td><h4>{{back_flights_d[flight]['true_orig']}} to {{back_flights_d[flight]['fake_dest']}}</h4></td>
+                    <td><h4>{{flight}}</h4></td>
+                    <td><h4>{{back_flights_d[flight]['stops']}}-{{back_flights_d[flight]['fake_dest']}}</h4></td>
+                </tr>
+            {% endfor %}
+                <caption align="bottom"><h4>Carriers: 
+                {% for car in back_flights_d['carriers'] %}
+                  {{car}}, 
+                {% endfor %} 
+                </caption>
+            </table>
+
+        {% else %}
+           <h3>Sorry! Our special routings didn't save any money for this trip, but other dates might yield better results.</h3>
+        {% endif %}
+    {% else %}
+        <h3>Sorry! We couldn't find any special routings to save more money.</h3>
+    {% endif %}
+{% else %}
+    <h3>Sorry! We can't find any non-stop flights for this trip.</h3>
+{% endif %}
+
+
+
+{% endblock %}

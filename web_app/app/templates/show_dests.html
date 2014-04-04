@@ -1,0 +1,35 @@
+<!-- extend from base layout -->
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Top 10 Destinations from {{origin_entered}}:</h2>
+
+   <form action="" method="post" name="ita">
+   {{itaform.hidden_tag()}}
+   <h3>Choose a destination</h3>
+    <table>
+      <th></th>
+      <th>Destination</th>
+    
+    {% for dest in itaform.destination %}
+      <tr>
+        <td>{{dest}}</td>
+        <td>{{dest.label}}</td>
+      </tr>
+
+    {% else %}
+      <li><em><h4>Sorry we don't have information about flights from: {{origin_entered}}.</h4></em>
+    {% endfor %}
+    </table>
+     
+      <h3>Tell us about the timing of your trip.</h3>
+      <h4><ul>Departure Month: {{itaform.month}}</ul>
+    
+      <ul>Nights at Destination: {{itaform.duration(size=3, maxlength=3)}}</ul></h4>
+      
+      <h3><ul><input type="submit" value="Check Prices"></ul></h3>
+      </form>
+
+
+
+{% endblock %}

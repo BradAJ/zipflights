@@ -1,0 +1,18 @@
+<!-- extend from base layout -->
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Find Destinations</h2>
+    <form action="" method="post" name="dests">
+    {{form.hidden_tag()}}
+   
+    <h3><ul>Departing from:
+       {{form.origin(size = 3, maxlength = 3)}} (airport code)</ul>
+        {% for error in form.errors.origin %}
+        <span style="color: red;">[{{error}}]</span>
+        {% endfor %}
+       
+    <ul><input type="submit" value="Fly!"></ul>
+      </h3>
+</form>
+{% endblock %}

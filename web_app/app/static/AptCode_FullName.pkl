@@ -1,0 +1,1470 @@
+(dp0
+S'SIT'
+p1
+S'Sitka Rocky Gutierrez (SIT)'
+p2
+sS'YUM'
+p3
+S'Yuma (YUM)'
+p4
+sS'CPR'
+p5
+S'Casper/Natrona County (CPR)'
+p6
+sS'AGS'
+p7
+S'Augusta (AGS)'
+p8
+sS'SPS'
+p9
+S'Wichita Falls Municipal (SPS)'
+p10
+sS'SPI'
+p11
+S'Abraham Lincoln Capital, Springfield (SPI)'
+p12
+sS'SPN'
+p13
+S'Saipan, Obyan, Saipan Island (SPN)'
+p14
+sS'BWI'
+p15
+S'Baltimore/Washington (BWI)'
+p16
+sS'WRG'
+p17
+S'Wrangell (WRG)'
+p18
+sS'LAN'
+p19
+S'Capital Region, Lansing (LAN)'
+p20
+sS'JNU'
+p21
+S'Juneau (JNU)'
+p22
+sS'SNA'
+p23
+VJohn Wayne, Santa Ana (SNA)
+p24
+sS'PQI'
+p25
+S'Northern Maine, Presque Isle (PQI)'
+p26
+sS'LAX'
+p27
+S'Los Angeles (LAX)'
+p28
+sS'MAF'
+p29
+S'Midland (MAF)'
+p30
+sS'LAW'
+p31
+VLawton–Fort Sill (LAW)
+p32
+sS'LAR'
+p33
+S'Laramie (LAR)'
+p34
+sS'LAS'
+p35
+S'McCarran, Las Vegas (LAS)'
+p36
+sS'GUC'
+p37
+S'Gunnison-Crested Butte (GUC)'
+p38
+sS'CMI'
+p39
+S'University of Illinois - Willard, Champaign / Urbana (CMI)'
+p40
+sS'CMH'
+p41
+S'Port Columbus (CMH)'
+p42
+sS'LMT'
+p43
+S'Klamath Falls (LMT)'
+p44
+sS'SHR'
+p45
+S'Sheridan County (SHR)'
+p46
+sS'GUM'
+p47
+S'Antonio B. Won Pat, Agana / Tamuning (GUM)'
+p48
+sS'CMX'
+p49
+S'Houghton County Memorial, Hancock / Calumet (CMX)'
+p50
+sS'DTW'
+p51
+S'Detroit Metropolitan Wayne County (DTW)'
+p52
+sS'BET'
+p53
+S'Bethel (BET)'
+p54
+sS'LSE'
+p55
+S'La Crosse (LSE)'
+p56
+sS'VLD'
+p57
+S'Valdosta (VLD)'
+p58
+sS'TTN'
+p59
+S'Trenton Mercer (TTN)'
+p60
+sS'CSG'
+p61
+S'Columbus Metropolitan (CSG)'
+p62
+sS'GRR'
+p63
+S'Gerald R. Ford, Grand Rapids (GRR)'
+p64
+sS'DSM'
+p65
+S'Des Moines (DSM)'
+p66
+sS'BLI'
+p67
+S'Bellingham (BLI)'
+p68
+sS'GRK'
+p69
+S'Killeen-Fort Hood, Fort Hood / Killeen / Temple (GRK)'
+p70
+sS'GRI'
+p71
+S'Central Nebraska, Grand Island (GRI)'
+p72
+sS'FAI'
+p73
+S'Fairbanks (FAI)'
+p74
+sS'GRB'
+p75
+S'Austin Straubel, Green Bay (GRB)'
+p76
+sS'INL'
+p77
+S'Falls, International Falls (INL)'
+p78
+sS'HLN'
+p79
+S'Helena (HLN)'
+p80
+sS'OKC'
+p81
+S'Will Rogers World, Oklahoma City (OKC)'
+p82
+sS'IND'
+p83
+S'Indianapolis (IND)'
+p84
+sS'EKO'
+p85
+S'Elko (EKO)'
+p86
+sS'SMX'
+p87
+S'Santa Maria Public (SMX)'
+p88
+sS'AKN'
+p89
+S'King Salmon (AKN)'
+p90
+sS'BZN'
+p91
+S'Bozeman Yellowstone (BZN)'
+p92
+sS'LFT'
+p93
+S'Lafayette (LFT)'
+p94
+sS'GGG'
+p95
+S'East Texas, Longview (GGG)'
+p96
+sS'MDW'
+p97
+S'Chicago Midway (MDW)'
+p98
+sS'MDT'
+p99
+S'Harrisburg, Harrisburg / Middletown (MDT)'
+p100
+sS'MVY'
+p101
+S"Martha's Vineyard, Vineyard Haven (MVY)"
+p102
+sS'DFW'
+p103
+S'Dallas/Fort Worth (DFW)'
+p104
+sS'FMN'
+p105
+S'Four Corners, Farmington (FMN)'
+p106
+sS'AUS'
+p107
+S'Austin-Bergstrom (AUS)'
+p108
+sS'ALO'
+p109
+S'Waterloo (ALO)'
+p110
+sS'SBP'
+p111
+S'San Luis Obispo County (SBP)'
+p112
+sS'SBY'
+p113
+S'Salisbury-Ocean City Wicomico (SBY)'
+p114
+sS'ALB'
+p115
+S'Albany (ALB)'
+p116
+sS'PUB'
+p117
+S'Pueblo Memorial (PUB)'
+p118
+sS'SBA'
+p119
+S'Santa Barbara Municipal (SBA)'
+p120
+sS'MMH'
+p121
+S'Mammoth Yosemite, Mammoth Lakes (MMH)'
+p122
+sS'ORF'
+p123
+S'Norfolk (ORF)'
+p124
+sS'ALW'
+p125
+S'Walla Walla (ALW)'
+p126
+sS'ORD'
+p127
+S"Chicago O'Hare (ORD)"
+p128
+sS'PUW'
+p129
+S'Pullman/Moscow, Pullman / Moscow, Idaho (PUW)'
+p130
+sS'SBN'
+p131
+S'South Bend Airport (was South Bend (SBN)'
+p132
+sS'KOA'
+p133
+S'Kona, Kailua/Kona (KOA)'
+p134
+sS'CAK'
+p135
+S'Akron/Canton (CAK)'
+p136
+sS'TOL'
+p137
+S'Toledo Express (TOL)'
+p138
+sS'ERI'
+p139
+S'Erie (ERI)'
+p140
+sS'CAE'
+p141
+S'Columbia Metropolitan (CAE)'
+p142
+sS'PGD'
+p143
+S'Punta Gorda (PGD)'
+p144
+sS'VPS'
+p145
+S'Northwest Florida, Valparaiso (VPS)'
+p146
+sS'PGA'
+p147
+S'Page Municipal (PGA)'
+p148
+sS'PGV'
+p149
+S'Pitt-Greenville (PGV)'
+p150
+sS'HIB'
+p151
+S'Range, Hibbing (HIB)'
+p152
+sS'ONT'
+p153
+S'Ontario (ONT)'
+p154
+sS'ABE'
+p155
+S'Lehigh Valley, Allentown (ABE)'
+p156
+sS'STC'
+p157
+S'St. Cloud (STC)'
+p158
+sS'STL'
+p159
+S'Lambert-St. Louis (STL)'
+p160
+sS'ABI'
+p161
+S'Abilene (ABI)'
+p162
+sS'HGR'
+p163
+S'Hagerstown (HGR)'
+p164
+sS'STT'
+p165
+S'Cyril E. King, Charlotte Amalie, St. Thomas (STT)'
+p166
+sS'ABQ'
+p167
+S'Albuquerque (ABQ)'
+p168
+sS'ABR'
+p169
+S'Aberdeen (ABR)'
+p170
+sS'STS'
+p171
+S'Charles M. Schulz - Sonoma County, Santa Rosa (STS)'
+p172
+sS'ABY'
+p173
+S'Southwest Georgia, Albany (ABY)'
+p174
+sS'STX'
+p175
+S'Henry E. Rohlsen, Christiansted, St. Croix (STX)'
+p176
+sS'BHM'
+p177
+S'Birmingham-Shuttlesworth (BHM)'
+p178
+sS'PNS'
+p179
+S'Pensacola (PNS)'
+p180
+sS'BHB'
+p181
+S'Hancock County-Bar Harbor (BHB)'
+p182
+sS'RST'
+p183
+S'Rochester (RST)'
+p184
+sS'OGG'
+p185
+S'Kahului (OGG)'
+p186
+sS'RSW'
+p187
+S'Southwest Florida, Fort Myers (RSW)'
+p188
+sS'JFK'
+p189
+S'John F. Kennedy, New York (JFK)'
+p190
+sS'FNT'
+p191
+S'Bishop, Flint (FNT)'
+p192
+sS'MIA'
+p193
+S'Miami (MIA)'
+p194
+sS'LIH'
+p195
+S'Lihue (LIH)'
+p196
+sS'LIT'
+p197
+S'Bill and Hillary Clinton National, Little Rock (LIT)'
+p198
+sS'FNL'
+p199
+S'Fort Collins-Loveland Municipal, Fort Collins / Loveland (FNL)'
+p200
+sS'EGE'
+p201
+S'Eagle County (EGE)'
+p202
+sS'SAN'
+p203
+S'San Diego (SAN)'
+p204
+sS'SAF'
+p205
+S'Santa Fe Municipal (SAF)'
+p206
+sS'LBB'
+p207
+S'Lubbock Preston Smith (LBB)'
+p208
+sS'RAP'
+p209
+S'Rapid City (RAP)'
+p210
+sS'SAV'
+p211
+S'Savannah/Hilton Head (SAV)'
+p212
+sS'SAT'
+p213
+S'San Antonio (SAT)'
+p214
+sS'CHA'
+p215
+S'Chattanooga Metropolitan (CHA)'
+p216
+sS'MRY'
+p217
+S'Monterey (MRY)'
+p218
+sS'JAX'
+p219
+S'Jacksonville (JAX)'
+p220
+sS'CHO'
+p221
+S'Charlottesville (CHO)'
+p222
+sS'JAN'
+p223
+S'Jackson-Evers (JAN)'
+p224
+sS'HRL'
+p225
+S'Valley, Harlingen (HRL)'
+p226
+sS'CHS'
+p227
+S'Charleston (CHS)'
+p228
+sS'EYW'
+p229
+S'Key West (EYW)'
+p230
+sS'JAC'
+p231
+S'Jackson Hole (JAC)'
+p232
+sS'RHI'
+p233
+S'Rhinelander-Oneida County (RHI)'
+p234
+sS'SFO'
+p235
+S'San Francisco (SFO)'
+p236
+sS'IPT'
+p237
+S'Williamsport (IPT)'
+p238
+sS'DBQ'
+p239
+S'Dubuque (DBQ)'
+p240
+sS'SFB'
+p241
+S'Orlando Sanford (SFB)'
+p242
+sS'TYR'
+p243
+S'Tyler Pounds (TYR)'
+p244
+sS'TYS'
+p245
+S'McGhee Tyson, Knoxville (TYS)'
+p246
+sS'IFP'
+p247
+S'Laughlin/Bullhead, Bullhead City (IFP)'
+p248
+sS'HDN'
+p249
+S'Yampa Valley Airport (Yampa Valley, Hayden (HDN)'
+p250
+sS'CEC'
+p251
+S'Del Norte County, Crescent City (CEC)'
+p252
+sS'BMI'
+p253
+S'Central Illinois, Bloomington / Normal (BMI)'
+p254
+sS'SUX'
+p255
+S'Sioux Gateway, Sioux City (SUX)'
+p256
+sS'ENA'
+p257
+S'Kenai Municipal (ENA)'
+p258
+sS'GCC'
+p259
+S'Gillette-Campbell County (GCC)'
+p260
+sS'DLG'
+p261
+S'Dillingham (DLG)'
+p262
+sS'SHV'
+p263
+S'Shreveport (SHV)'
+p264
+sS'GCK'
+p265
+S'Garden City (GCK)'
+p266
+sS'DLH'
+p267
+S'Duluth (DLH)'
+p268
+sS'SHD'
+p269
+S'Shenandoah Valley, Staunton / Waynesboro / Harrisonburg (SHD)'
+p270
+sS'RFD'
+p271
+S'Chicago Rockford (RFD)'
+p272
+sS'PVU'
+p273
+S'Provo Municipal (PVU)'
+p274
+sS'BTV'
+p275
+S'Burlington (BTV)'
+p276
+sS'BTR'
+p277
+S'Baton Rouge Metropolitan (BTR)'
+p278
+sS'KTN'
+p279
+S'Ketchikan (KTN)'
+p280
+sS'MGM'
+p281
+S'Montgomery (MGM)'
+p282
+sS'MEM'
+p283
+S'Memphis (MEM)'
+p284
+sS'MGW'
+p285
+S'Morgantown Municipal (MGW)'
+p286
+sS'BTM'
+p287
+S'Bert Mooney, Butte (BTM)'
+p288
+sS'ATL'
+p289
+S'Hartsfield-Jackson Atlanta (ATL)'
+p290
+sS'ISP'
+p291
+S'Long Island MacArthur, Islip (ISP)'
+p292
+sS'ATW'
+p293
+S'Outagamie County, Appleton (ATW)'
+p294
+sS'ISN'
+p295
+S'Sloulin Field, Williston (ISN)'
+p296
+sS'LNY'
+p297
+S'Lanai City (LNY)'
+p298
+sS'PVC'
+p299
+S'Provincetown Municipal (PVC)'
+p300
+sS'PVD'
+p301
+S'Theodore Francis Green State, Providence / Warwick (PVD)'
+p302
+sS'LNK'
+p303
+S'Lincoln (LNK)'
+p304
+sS'ECP'
+p305
+S'Northwest Florida Beaches, Panama City Beach (ECP)'
+p306
+sS'CLL'
+p307
+S'Easterwood, College Station (CLL)'
+p308
+sS'CLM'
+p309
+S'William R. Fairchild, Port Angeles (CLM)'
+p310
+sS'ASE'
+p311
+S'Aspen-Pitkin County (ASE)'
+p312
+sS'GTF'
+p313
+S'Great Falls (GTF)'
+p314
+sS'PDX'
+p315
+S'Portland (PDX)'
+p316
+sS'CLD'
+p317
+S'McClellan-Palomar, Carlsbad (CLD)'
+p318
+sS'CLE'
+p319
+S'Cleveland-Hopkins (CLE)'
+p320
+sS'EUG'
+p321
+S'Eugene (EUG)'
+p322
+sS'GTR'
+p323
+S'Golden Triangle, Columbus / West Point / Starkville (GTR)'
+p324
+sS'YAK'
+p325
+S'Yakutat (YAK)'
+p326
+sS'CLT'
+p327
+S'Charlotte/Douglas (CLT)'
+p328
+sS'TLH'
+p329
+S'Tallahassee (TLH)'
+p330
+sS'DUT'
+p331
+S'Unalaska (DUT)'
+p332
+sS'ITO'
+p333
+S'Hilo (ITO)'
+p334
+sS'OMA'
+p335
+S'Eppley Airfield, Omaha (OMA)'
+p336
+sS'OME'
+p337
+S'Nome (OME)'
+p338
+sS'HVN'
+p339
+S'Tweed New Haven (HVN)'
+p340
+sS'TUP'
+p341
+S'Tupelo (TUP)'
+p342
+sS'TUS'
+p343
+S'Tucson (TUS)'
+p344
+sS'TUL'
+p345
+S'Tulsa (TUL)'
+p346
+sS'SWF'
+p347
+S'Stewart, Newburgh (SWF)'
+p348
+sS'BPT'
+p349
+S'Jack Brooks, Beaumont / Port Arthur (BPT)'
+p350
+sS'CYS'
+p351
+S'Cheyenne (CYS)'
+p352
+sS'BIL'
+p353
+S'Billings Logan (BIL)'
+p354
+sS'ELM'
+p355
+S'Elmira/Corning, Elmira / Corning (ELM)'
+p356
+sS'EVV'
+p357
+S'Evansville (EVV)'
+p358
+sS'BIS'
+p359
+S'Bismarck Municipal (BIS)'
+p360
+sS'MLB'
+p361
+S'Melbourne (MLB)'
+p362
+sS'DHN'
+p363
+S'Dothan (DHN)'
+p364
+sS'MLI'
+p365
+S'Quad City, Moline (MLI)'
+p366
+sS'MLU'
+p367
+S'Monroe (MLU)'
+p368
+sS'CWA'
+p369
+S'Central Wisconsin, Wausau (CWA)'
+p370
+sS'SLC'
+p371
+S'Salt Lake City (SLC)'
+p372
+sS'MCO'
+p373
+S'Orlando (MCO)'
+p374
+sS'MCI'
+p375
+S'Kansas City (MCI)'
+p376
+sS'LGB'
+p377
+S'Long Beach (LGB)'
+p378
+sS'LGA'
+p379
+S'LaGuardia, New York (LGA)'
+p380
+sS'GFK'
+p381
+S'Grand Forks (GFK)'
+p382
+sS'OTZ'
+p383
+S'Ralph Wien Memorial, Kotzebue (OTZ)'
+p384
+sS'MCW'
+p385
+S'Mason City Municipal (MCW)'
+p386
+sS'CKB'
+p387
+S'North Central West Virginia Airport (was Harrison-Marion, Clarksburg (CKB)'
+p388
+sS'BGM'
+p389
+S'Greater Binghamton (BGM)'
+p390
+sS'BGR'
+p391
+S'Bangor (BGR)'
+p392
+sS'PAH'
+p393
+S'Barkley, Paducah (PAH)'
+p394
+sS'UNK'
+p395
+S'Unalakleet (UNK)'
+p396
+sS'RIW'
+p397
+S'Riverton (RIW)'
+p398
+sS'DCA'
+p399
+S'Washington National (DCA)'
+p400
+sS'HSV'
+p401
+S'Huntsville (HSV)'
+p402
+sS'MQT'
+p403
+S'Sawyer, Marquette / Gwinn (MQT)'
+p404
+sS'RIC'
+p405
+S'Richmond (RIC)'
+p406
+sS'IAH'
+p407
+S'George Bush Intercontinental, Houston (IAH)'
+p408
+sS'IAD'
+p409
+S'Washington Dulles (IAD)'
+p410
+sS'IAG'
+p411
+S'Niagara Falls (IAG)'
+p412
+sS'OAJ'
+p413
+S'Albert J. Ellis, Jacksonville (OAJ)'
+p414
+sS'GPT'
+p415
+S'Gulfport-Biloxi, Gulfport / Biloxi (GPT)'
+p416
+sS'BNA'
+p417
+S'Nashville (BNA)'
+p418
+sS'ITH'
+p419
+S'Ithaca Tompkins (ITH)'
+p420
+sS'PHL'
+p421
+S'Philadelphia (PHL)'
+p422
+sS'VQS'
+p423
+VAntonio Rivera Rodríguez, Vieques (VQS)
+p424
+sS'PHF'
+p425
+S'Newport News/Williamsburg (PHF)'
+p426
+sS'SYR'
+p427
+S'Syracuse Hancock (SYR)'
+p428
+sS'PHX'
+p429
+S'Phoenix Sky Harbor (PHX)'
+p430
+sS'CRP'
+p431
+S'Corpus Christi (CRP)'
+p432
+sS'CRW'
+p433
+S'Yeager, Charleston (CRW)'
+p434
+sS'AEX'
+p435
+S'Alexandria (AEX)'
+p436
+sS'MFE'
+p437
+S'McAllen-Miller (MFE)'
+p438
+sS'BUR'
+p439
+S'Bob Hope, Burbank (BUR)'
+p440
+sS'MFR'
+p441
+S'Rogue Valley, Medford (MFR)'
+p442
+sS'GEG'
+p443
+S'Spokane (GEG)'
+p444
+sS'BUF'
+p445
+S'Buffalo Niagara (BUF)'
+p446
+sS'MHK'
+p447
+S'Manhattan (MHK)'
+p448
+sS'YKM'
+p449
+S'Yakima Air Terminal (McAllister Field) (YKM)'
+p450
+sS'FOD'
+p451
+S'Fort Dodge (FOD)'
+p452
+sS'FOE'
+p453
+S'Topeka (FOE)'
+p454
+sS'MHT'
+p455
+S'Manchester-Boston (MHT)'
+p456
+sS'RNO'
+p457
+S'Reno/Tahoe (RNO)'
+p458
+sS'ANC'
+p459
+S'Ted Stevens Anchorage (ANC)'
+p460
+sS'PSC'
+p461
+S'Tri-Cities, Pasco (PSC)'
+p462
+sS'PSG'
+p463
+S'Petersburg James A. Johnson (PSG)'
+p464
+sS'MOT'
+p465
+S'Minot (MOT)'
+p466
+sS'MOB'
+p467
+S'Mobile (MOB)'
+p468
+sS'PSP'
+p469
+S'Palm Springs (PSP)'
+p470
+sS'LCH'
+p471
+S'Lake Charles (LCH)'
+p472
+sS'MOD'
+p473
+S'Modesto City-County (MOD)'
+p474
+sS'COS'
+p475
+S'City of Colorado Springs Municipal (COS)'
+p476
+sS'COU'
+p477
+S'Columbia (COU)'
+p478
+sS'ILM'
+p479
+S'Wilmington (ILM)'
+p480
+sS'FSM'
+p481
+S'Fort Smith (FSM)'
+p482
+sS'COD'
+p483
+S'Yellowstone, Cody (COD)'
+p484
+sS'CID'
+p485
+S'The Eastern Iowa, Cedar Rapids (CID)'
+p486
+sS'LWS'
+p487
+S'Lewiston-Nez Perce County (LWS)'
+p488
+sS'TVC'
+p489
+S'Cherry Capital, Traverse City (TVC)'
+p490
+sS'SRQ'
+p491
+VSarasota–Bradenton, Sarasota / Bradenton (SRQ)
+p492
+sS'LYH'
+p493
+S'Lynchburg (LYH)'
+p494
+sS'BJI'
+p495
+S'Bemidji (BJI)'
+p496
+sS'CDV'
+p497
+S'Merle K. (Mudhole) Smith, Cordova (CDV)'
+p498
+sS'PLN'
+p499
+S'Pellston (PLN)'
+p500
+sS'MKG'
+p501
+S'Muskegon County (MKG)'
+p502
+sS'HYA'
+p503
+S'Barnstable Municipal, Hyannis (HYA)'
+p504
+sS'MKE'
+p505
+S'General Mitchell, Milwaukee (MKE)'
+p506
+sS'GNV'
+p507
+S'Gainesville (GNV)'
+p508
+sS'MKK'
+p509
+VMolokai, Kaunakakai (MKK)
+p510
+sS'IYK'
+p511
+S'Inyokern (IYK)'
+p512
+sS'ANI'
+p513
+S'Aniak (ANI)'
+p514
+sS'JHW'
+p515
+S'Chautauqua County/Jamestown (JHW)'
+p516
+sS'CVG'
+p517
+S'Cincinnati/Northern Kentucky (CVG)'
+p518
+sS'PSE'
+p519
+S'Mercedita, Ponce (PSE)'
+p520
+sS'FAY'
+p521
+S'Fayetteville (FAY)'
+p522
+sS'PPG'
+p523
+S'Pago Pago, Pago Pago, Tutuila (PPG)'
+p524
+sS'TPA'
+p525
+S'Tampa (TPA)'
+p526
+sS'FAR'
+p527
+S'Hector, Fargo (FAR)'
+p528
+sS'FAT'
+p529
+S'Fresno Yosemite (FAT)'
+p530
+sS'OWB'
+p531
+S'Owensboro-Daviess County (OWB)'
+p532
+sS'GAL'
+p533
+S'Edward G. Pitka Sr., Galena (GAL)'
+p534
+sS'DRT'
+p535
+S'Del Rio (DRT)'
+p536
+sS'MBS'
+p537
+S'MBS, Saginaw (MBS)'
+p538
+sS'MTJ'
+p539
+S'Montrose (MTJ)'
+p540
+sS'HPN'
+p541
+S'Westchester County, White Plains (HPN)'
+p542
+sS'BFL'
+p543
+S'Meadows Field, Bakersfield (BFL)'
+p544
+sS'ART'
+p545
+S'Watertown (ART)'
+p546
+sS'SDF'
+p547
+S'Louisville (SDF)'
+p548
+sS'PWM'
+p549
+S'Portland (PWM)'
+p550
+sS'GSP'
+p551
+S'Greenville-Spartanburg, Greer (GSP)'
+p552
+sS'BOS'
+p553
+S'Gen. Edward Lawrence Logan, Boston (BOS)'
+p554
+sS'OAK'
+p555
+S'Oakland (OAK)'
+p556
+sS'FWA'
+p557
+S'Fort Wayne (FWA)'
+p558
+sS'BOI'
+p559
+S'Boise (BOI)'
+p560
+sS'DRO'
+p561
+S'Durango-La Plata County (DRO)'
+p562
+sS'FSD'
+p563
+S'Sioux Falls (FSD)'
+p564
+sS'GSO'
+p565
+S'Piedmont Triad, Greensboro (GSO)'
+p566
+sS'PIH'
+p567
+S'Pocatello, Pocatello / Arbon Valley (PIH)'
+p568
+sS'PIA'
+p569
+S'General Downing - Peoria (PIA)'
+p570
+sS'PIB'
+p571
+S'Hattiesburg-Laurel, Hattiesburg / Laurel (PIB)'
+p572
+sS'MYR'
+p573
+S'Myrtle Beach (MYR)'
+p574
+sS'PIE'
+p575
+S'St. Petersburg/Clearwater (PIE)'
+p576
+sS'PIR'
+p577
+S'Pierre (PIR)'
+p578
+sS'PIT'
+p579
+S'Pittsburgh (PIT)'
+p580
+sS'BQN'
+p581
+VRafael Hernández, Aguadilla (BQN)
+p582
+sS'BQK'
+p583
+S'Brunswick Golden Isles (BQK)'
+p584
+sS'HNL'
+p585
+S'Honolulu (HNL)'
+p586
+sS'EAT'
+p587
+S'Pangborn Memorial, Wenatchee (EAT)'
+p588
+sS'GJT'
+p589
+S'Grand Junction (GJT)'
+p590
+sS'VDZ'
+p591
+S'Valdez (VDZ)'
+p592
+sS'FLL'
+p593
+S'Fort Lauderdale (FLL)'
+p594
+sS'FLO'
+p595
+S'Florence (FLO)'
+p596
+sS'SMF'
+p597
+S'Sacramento (SMF)'
+p598
+sS'FLG'
+p599
+S'Flagstaff Pulliam (FLG)'
+p600
+sS'SCK'
+p601
+S'Stockton Metropolitan (SCK)'
+p602
+sS'AMA'
+p603
+S'Rick Husband Amarillo (AMA)'
+p604
+sS'ROA'
+p605
+S'Roanoke (ROA)'
+p606
+sS'ROC'
+p607
+S'Greater Rochester (ROC)'
+p608
+sS'SCC'
+p609
+S'Deadhorse, Deadhorse / Prudhoe Bay (SCC)'
+p610
+sS'ROP'
+p611
+S'Rota, Rota Island (ROP)'
+p612
+sS'ROW'
+p613
+S'Roswell (ROW)'
+p614
+sS'TRI'
+p615
+S'Tri-Cities, Bristol / Johnson City / Kingsport (TRI)'
+p616
+sS'EWN'
+p617
+S'Coastal Carolina, New Bern (EWN)'
+p618
+sS'BDL'
+p619
+S'Bradley, Hartford (BDL)'
+p620
+sS'PBG'
+p621
+S'Plattsburgh (PBG)'
+p622
+sS'EWR'
+p623
+S'Newark Liberty (EWR)'
+p624
+sS'PBI'
+p625
+S'Palm Beach, West Palm Beach (PBI)'
+p626
+sS'LRD'
+p627
+S'Laredo (LRD)'
+p628
+sS'AVP'
+p629
+S'Wilkes-Barre/Scranton (AVP)'
+p630
+sS'AVL'
+p631
+S'Asheville (AVL)'
+p632
+sS'HTS'
+p633
+S'Tri-State, Huntington (HTS)'
+p634
+sS'ACK'
+p635
+S'Nantucket Memorial (ACK)'
+p636
+sS'SUN'
+p637
+S'Friedman Memorial, Hailey (SUN)'
+p638
+sS'XNA'
+p639
+S'Northwest Arkansas, Fayetteville (XNA)'
+p640
+sS'ACV'
+p641
+S'Arcata, Arcata / Eureka (ACV)'
+p642
+sS'ACT'
+p643
+S'Waco (ACT)'
+p644
+sS'ACY'
+p645
+S'Atlantic City (ACY)'
+p646
+sS'IDA'
+p647
+S'Idaho Falls (IDA)'
+p648
+sS'BKG'
+p649
+S'Branson (BKG)'
+p650
+sS'FCA'
+p651
+S'Glacier Park, Kalispell (FCA)'
+p652
+sS'RDU'
+p653
+S'Raleigh-Durham (RDU)'
+p654
+sS'OTH'
+p655
+S'Southwest Oregon, North Bend (OTH)'
+p656
+sS'ADQ'
+p657
+S'Kodiak (ADQ)'
+p658
+sS'SJT'
+p659
+S'San Angelo (SJT)'
+p660
+sS'SJU'
+p661
+S'San Juan / Carolina (SJU)'
+p662
+sS'RDD'
+p663
+S'Redding Municipal (RDD)'
+p664
+sS'RDM'
+p665
+S'Redmond Municipal (RDM)'
+p666
+sS'SJC'
+p667
+S'Norman Y. Mineta San Jose (SJC)'
+p668
+sS'ELP'
+p669
+S'El Paso (ELP)'
+p670
+sS'BRW'
+p671
+VWiley Post–Will Rogers Memorial, Barrow (BRW)
+p672
+sS'MEI'
+p673
+S'Meridian (MEI)'
+p674
+sS'BRO'
+p675
+S'Brownsville/South Padre Island (BRO)'
+p676
+sS'LEX'
+p677
+S'Blue Grass, Lexington (LEX)'
+p678
+sS'BRD'
+p679
+S'Brainerd Lakes (BRD)'
+p680
+sS'CIC'
+p681
+S'Chico Municipal (CIC)'
+p682
+sS'TWF'
+p683
+S'Magic Valley, Twin Falls (TWF)'
+p684
+sS'DEN'
+p685
+S'Denver (DEN)'
+p686
+sS'MSY'
+p687
+S'Louis Armstrong New Orleans (MSY)'
+p688
+sS'AZO'
+p689
+S'Kalamazoo/Battle Creek (AZO)'
+p690
+sS'AZA'
+p691
+S'Phoenix-Mesa Gateway (AZA)'
+p692
+sS'YNG'
+p693
+S'Youngstown-Warren, Youngstown / Warren (YNG)'
+p694
+sS'MSP'
+p695
+S'Minneapolis-St. Paul (MSP)'
+p696
+sS'MSO'
+p697
+S'Missoula (MSO)'
+p698
+sS'MSN'
+p699
+S'Dane County, Madison (MSN)'
+p700
+sS'CIU'
+p701
+S'Chippewa County, Sault Ste. Marie (CIU)'
+p702
+sS'LWB'
+p703
+S'Greenbrier Valley, Lewisburg (LWB)'
+p704
+sS'TXK'
+p705
+S'Texarkana (TXK)'
+p706
+sS'DAB'
+p707
+S'Daytona Beach (DAB)'
+p708
+sS'RKS'
+p709
+VRock Springs – Sweetwater County (RKS)
+p710
+sS'DAL'
+p711
+S'Dallas Love Field (DAL)'
+p712
+sS'SGU'
+p713
+S'St. George Municipal, St. George / Beaver (SGU)'
+p714
+sS'RKD'
+p715
+S'Knox County, Rockland (RKD)'
+p716
+sS'SEA'
+p717
+S'Seattle-Tacoma, Seattle / Tacoma (SeaTac) (SEA)'
+p718
+sS'EAU'
+p719
+S'Chippewa Valley, Eau Claire (EAU)'
+p720
+sS'DAY'
+p721
+S'James M. Cox Dayton (DAY)'
+p722
+sS'SGF'
+p723
+S'Springfield-Branson National (SGF)'
+p724
+sS'HOM'
+p725
+S'Homer (HOM)'
+p726
+sS'HOU'
+p727
+S'William P. Hobby, Houston (HOU)'
+p728
+sS'ICT'
+p729
+S'Wichita Dwight D. Eisenhower National (ICT)'
+p730
+sS'SCE'
+p731
+S'University Park, State College (SCE)'
+p732
+sS'HHH'
+p733
+S'Hilton Head, Hilton Head Island (HHH)'
+p734
+s.
