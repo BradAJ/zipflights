@@ -4,6 +4,7 @@ zipflights
 Bradley Jacobs, Apr 2014
 
 ###Data driven web app for saving money on airline tickets.
+###Visit: [zipflights.co](http://www.zipflights.co)
 
 
 Using pricing and routing data using data from the Bureau of Transportation Statistics (BTS) [Origin and Destination Passenger Survey](http://www.transtats.bts.gov/Tables.asp?DB_ID=125) (compiled from 2012 Quarter 4 through 2013 Quarter 3).  I built a Python-Flask web app that identifies good-value domestic routes from a chosen origin airport.  The app allows a user to perform a month-long search of ticket prices from the targeted airports by querying [ITA Matrix](http://matrix.itasoftware.com).
