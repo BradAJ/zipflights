@@ -27,5 +27,5 @@ Copies of the dictionaries used in the web app are saved in the /app/static subd
 
 Within the web_app directory is the Python-Flask code for the website.  Changing the python path to your local path in run.py and then running this file from the command line should be sufficient to launch a server so that the site can be accessed locally through a web browser.
 
-Note that the app fetches live airline pricing data by querying [ITA Matrix](http://matrix.itasoftware.com).  Like any airline ticket search this can take a significant amount of time (up to 30 sec), during which time the app will not be responsive (your browser's status bar will say something like: "waiting for localhost").  Please be patient.  (An "always up" mode where these queries run in the background will be added soon.)
+Note that the app fetches live airline pricing data by querying [ITA Matrix](http://matrix.itasoftware.com).  Like any airline ticket search this can take a significant amount of time (up to 30 sec), during which time the app will not be responsive (your browser's status bar will say something like: "waiting for localhost").  Please be patient.
 
