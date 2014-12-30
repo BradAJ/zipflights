@@ -4,6 +4,7 @@ zipflights
 Bradley Jacobs, Apr 2014
 
 ###Data driven web app for saving money on airline tickets.
+###Update Dec 2014: The method for querying flights used here no longer works (ITA Software changed their protocol).  I will investigate whether ITA Software or other providers have viable alternatives for obtaining the required flight data, but I have no timeline for when this might be finished.
 ###Visit: [zipflights.co](http://www.zipflights.co)
 
 
