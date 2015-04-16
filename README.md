@@ -4,8 +4,9 @@ zipflights
 Bradley Jacobs, Apr 2014
 
 ###Data driven web app for saving money on airline tickets.
-###Update Dec 2014: The method for querying flights used here no longer works (ITA Software changed their protocol).  I will investigate whether ITA Software or other providers have viable alternatives for obtaining the required flight data, but I have no timeline for when this might be finished.
-###Visit: [zipflights.co](http://www.zipflights.co)
+============
+#####Unfortunately as of December 2014 the method for querying flights used here no longer works.  The service used for querying live flight data, ITA Software (owned by Google), has changed their protocol and made it infeasible to continue scraping their site.  ITA was one of the last sites where it was possible to automate airfare searches for free.  I believe it may be still be possible to query ITA using methods similar to the ones posted here, but developing these is not currently the best use of my time (feel free to drop me a line if you want more detail on this).  Hence, this repo is maintained for archival purposes only.  
+=============
 
 
 Using pricing and routing data using data from the Bureau of Transportation Statistics (BTS) [Origin and Destination Passenger Survey](http://www.transtats.bts.gov/Tables.asp?DB_ID=125) (compiled from 2012 Quarter 4 through 2013 Quarter 3).  I built a Python-Flask web app that identifies good-value domestic routes from a chosen origin airport.  The app allows a user to perform a month-long search of ticket prices from the targeted airports by querying [ITA Matrix](http://matrix.itasoftware.com).
